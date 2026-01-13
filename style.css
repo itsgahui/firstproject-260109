@@ -1,7 +1,7 @@
 .bg-desk {
   position: relative;
   margin: 0;
-  background-image: url(https://f.playcode.io/p-2641740/v-1/019b9b50-ffd7-7472-9f55-207ac8768720/bg-desktop.png);
+  background-image: url(images/bg-desktop.png);
   background-size: cover;
   min-height: 100vh;
   background-color: #674bb1;
@@ -114,7 +114,7 @@ h2 {
     align-items: center;
     gap: 20px;
     padding: 30px 20px;
-    background-image: url(https://f.playcode.io/p-2641740/v-1/019b9b50-ffd5-7415-9344-6eaf8738282a/bg-mobile.png)
+    background-image: url(images/bg-mobile.png)
   }
 
   .text-content {
