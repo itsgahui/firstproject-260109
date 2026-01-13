@@ -2,6 +2,9 @@
 Languages
 [English](#english) | [Français](#français) | [한국어](#한국어)
 
+##Live site
+https://gahui1270-arch.github.io/first-project-2026-01-09/
+
 A simple responsive landing page built with HTML and CSS.
 
 ## English
@@ -30,6 +33,9 @@ It was built using only HTML and CSS, with a focus on layout structure, responsi
 - Handling mobile layouts with media queries
 - The relationship between UI details and user experience
 
+### Acknowledgments
+This project is based on a Frontend Mentor challenge.
+
 
 ## Français
 
@@ -57,6 +63,9 @@ Elle a été réalisée uniquement avec HTML et CSS, en mettant l’accent sur l
 - Adapter les interfaces mobiles grâce aux media queries
 - L’impact des détails de l’interface sur l’expérience utilisateur
 
+### Remerciements
+Ce projet est inspiré d’un défi proposé par Frontend Mentor.
+
 
 ## 한국어
 
@@ -83,3 +92,6 @@ HTML과 CSS만 사용하여 레이아웃 구조, 반응형 디자인, 접근성�
 - vw 단위를 활용한 반응형 텍스트
 - 미디어 쿼리를 이용한 모바일 대응
 - UI 디테일이 사용자 경험에 미치는 영향
+
+### 감사의 말
+이 프로젝트는 Frontend Mentor에서 제공한 챌린지를 참고하여 제작되었습니다.
