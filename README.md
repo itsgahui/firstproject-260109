@@ -3,7 +3,7 @@ Languages
 [English](#english) | [Français](#français) | [한국어](#한국어)
 
 ##Live site
-https://gahui1270-arch.github.io/first-project-2026-01-09/
+https://itsgahui.github.io/firstproject-260109/
 
 A simple responsive landing page built with HTML and CSS.
 
